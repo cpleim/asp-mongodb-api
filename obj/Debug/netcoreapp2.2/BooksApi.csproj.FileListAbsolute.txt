@@ -1,0 +1,14 @@
+/Users/matias/Documents/asp api/BooksApi/bin/Debug/netcoreapp2.2/BooksApi.deps.json
+/Users/matias/Documents/asp api/BooksApi/bin/Debug/netcoreapp2.2/BooksApi.runtimeconfig.json
+/Users/matias/Documents/asp api/BooksApi/bin/Debug/netcoreapp2.2/BooksApi.runtimeconfig.dev.json
+/Users/matias/Documents/asp api/BooksApi/bin/Debug/netcoreapp2.2/BooksApi.dll
+/Users/matias/Documents/asp api/BooksApi/bin/Debug/netcoreapp2.2/BooksApi.pdb
+/Users/matias/Documents/asp api/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.csprojAssemblyReference.cache
+/Users/matias/Documents/asp api/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.csproj.CoreCompileInputs.cache
+/Users/matias/Documents/asp api/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.RazorAssemblyInfo.cache
+/Users/matias/Documents/asp api/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.RazorAssemblyInfo.cs
+/Users/matias/Documents/asp api/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.AssemblyInfoInputs.cache
+/Users/matias/Documents/asp api/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.AssemblyInfo.cs
+/Users/matias/Documents/asp api/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.RazorTargetAssemblyInfo.cache
+/Users/matias/Documents/asp api/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.dll
+/Users/matias/Documents/asp api/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.pdb
